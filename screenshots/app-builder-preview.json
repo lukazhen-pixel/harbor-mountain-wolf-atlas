@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "THE COLUMN",
+      "hasCanvas": false,
+      "bodyTextLen": 175,
+      "bodyTextHash": "21e28b91dab02c1901c8e20e186b6f3578cc7b6e87ac10e4308ef2890d6a3f7c",
+      "bodyTextPrefix": "REAL-TIME FORMATION COMMAND The Column March a retinue through h",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "THE COLUMN",
+      "hasCanvas": false,
+      "bodyTextLen": 175,
+      "bodyTextHash": "21e28b91dab02c1901c8e20e186b6f3578cc7b6e87ac10e4308ef2890d6a3f7c",
+      "bodyTextPrefix": "REAL-TIME FORMATION COMMAND The Column March a retinue through h",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
